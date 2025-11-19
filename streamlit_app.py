@@ -1,7 +1,8 @@
 import streamlit as st
 import pandas as pd
 import os
-import plotly as px
+import plotly.express as px
+
 
 st.set_page_config(page_title="Lab Opinion SocioBrasil", layout="wide")
 
