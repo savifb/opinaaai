@@ -1,5 +1,3 @@
-import os
-os.system("pip install plotly==5.15.0")
 
 import streamlit as st
 import pandas as pd

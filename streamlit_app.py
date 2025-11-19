@@ -1,9 +1,7 @@
-import os
-os.system("pip install plotly==5.15.0")
 import streamlit as st
 import pandas as pd
 import os
-import plotly.express as px
+import plotly as px
 
 st.set_page_config(page_title="Lab Opinion SocioBrasil", layout="wide")
 
